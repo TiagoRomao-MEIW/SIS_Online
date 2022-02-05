@@ -2,8 +2,8 @@
  MEIW | PWA - Trabalho final - Front-End & Back-End
   
 # Credenciais teste
-usrnm: admin
-psswd: meiw
+user: admin
+pass: meiw
 
 
 # Tiago Romão | 75309
