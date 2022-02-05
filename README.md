@@ -1,7 +1,7 @@
 # SIS_Online
  MEIW | PWA - Trabalho final - Front-End & Back-End
   
-# Credenciais teste
+# Credenciais
 user: admin
 pass: meiw
 
