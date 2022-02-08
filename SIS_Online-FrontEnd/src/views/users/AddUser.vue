@@ -51,7 +51,6 @@
               <input
                 v-model="auth.username"
                 type="text"
-                value="ricardo.queiros@gmail.com"
                 class="form-control form-control-lg"
                 id="txtEmail"
                 placeholder="escreve username"
